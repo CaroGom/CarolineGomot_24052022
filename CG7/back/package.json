@@ -1,0 +1,29 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "backend hot takes",
+  "main": "(server.js)",
+  "scripts": {
+    "test": "-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Dumbledore@DESKTOP-TJVAJA1 MINGW64 ~/Desktop/OPC/MODULE-6/CarolineGomot_6_08052022 "
+  },
+  "keywords": [
+    "test",
+    "hot",
+    "takes"
+  ],
+  "author": "Caroline Gomot",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.3.2",
+    "mongoose-unique-validator": "^3.0.0",
+    "multer": "^1.4.4",
+    "nodemon": "^2.0.16"
+  }
+}

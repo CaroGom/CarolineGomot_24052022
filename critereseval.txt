@@ -1,0 +1,46 @@
+Critères d’évaluation
+Développer l’interface d’un site web grâce à un framework front-end
+
+Le code du site web est validé si :
+
+❒ l’application peut être clonée et lancée.
+
+❒ l'application a été développée grâce à un framework front-end en JavaScript.
+
+❒ l’application web contient le logo fourni par le client et respecte l’identité graphique.
+
+❒ la page d’accueil du site affiche les postes des utilisateurs par ordre antéchronologique (du plus récent au plus vieux).
+
+ 
+
+Authentifier un utilisateur et maintenir sa session
+
+Le code du site web est validé si : 
+
+❒ l’utilisateur peut se connecter à l’application.
+
+❒ l’utilisateur peut se déconnecter de l’application.
+
+❒ les données de l’application web sont persistantes pendant le temps de connexion de l’utilisateur.
+
+❒ les données de connexion des utilisateurs sont sécurisées, c’est à dire aucun mot de passe n’est stocké en clair dans la base de données.
+
+ 
+
+Implémenter un stockage de données sécurisé en utilisant une base de données
+
+La base de données (export SQL ou autre format) est validé si :
+
+❒ les données du site sont stockées dans une base de données :
+
+Les postes des utilisateurs ;
+Les données des utilisateurs.
+❒ un poste doit pouvoir contenir du texte et une image.
+
+❒ l’utilisateur peut créer, modifier et supprimer des postes.
+
+❒ l’utilisateur peut liker des postes.
+
+❒ un seul utilisateur a les droits d’administration, c’est à dire qu’il peut modifier ou supprimer les postes de n’importe quel utilisateur.
+
+❒ la base de données stocke les informations de connexion des utilisateurs de manière sécurisée.
